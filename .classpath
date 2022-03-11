@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/bianc/Desktop/TELET_/learning/43019-600/Annex_B_Export_Files.zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/bianc/Desktop/TELET_/learning/43019-600/Annex_A_java.zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/bianc/Desktop/TELET_/learning/java_card_tools-win-bin-b_17-06_jul_2021.zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/bianc/Desktop/TELET_/learning/java_card_tools-win-bin-b_17-06_jul_2021/lib/api_classic-3.0.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/bianc/Desktop/TELET_/learning/java_card_kit-3_0_1-doc-spec-rr-15_may_2009/javacard_specifications-3_0_1-RR/classic/api_classic/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bianc/Desktop/TELET_/learning/43019-600/Annex_A_java/Annex_A_java/sim.zip"/>
+	<classpathentry kind="lib" path="C:/Users/bianc/Desktop/TELET_/learning/43019-600/Annex_B_Export_Files/Annex_B_Export_Files/sim/sim.zip"/>
+	<classpathentry kind="lib" path="C:/Users/bianc/Desktop/TELET_/learning/java_card_tools-win-bin-b_17-06_jul_2021/lib/jctasks_tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bianc/Desktop/TELET_/learning/java_card_tools-win-bin-b_17-06_jul_2021/lib/json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bianc/Desktop/TELET_/learning/java_card_tools-win-bin-b_17-06_jul_2021/lib/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
